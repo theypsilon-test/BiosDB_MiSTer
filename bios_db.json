@@ -28,6 +28,24 @@
             "size": 512,
             "url": "https://archive.org/download/MiSTer_BIOS_DB_Pack/BIOS.zip/AtariLynx/boot.rom"
         },
+        "games/CoCo3/boot0.rom": {
+            "hash": "7233c6c429f3ce1c7392f28a933e0b6f",
+            "overwrite": false,
+            "size": 32768,
+            "url": "https://archive.org/download/MiSTer_BIOS_DB_Pack/BIOS.zip/CoCo3/boot0.rom"
+        },
+        "games/CoCo3/boot1.rom": {
+            "hash": "8cab28f4b7311b8df63c07bb3b59bfd5",
+            "overwrite": false,
+            "size": 8192,
+            "url": "https://archive.org/download/MiSTer_BIOS_DB_Pack/BIOS.zip/CoCo3/boot1.rom"
+        },
+        "games/CoCo3/boot2.rom": {
+            "hash": "171fb7a5d3b808565295b45c773abaaf",
+            "overwrite": false,
+            "size": 8192,
+            "url": "https://archive.org/download/MiSTer_BIOS_DB_Pack/BIOS.zip/CoCo3/boot2.rom"
+        },
         "games/GAMEBOY/boot1.rom": {
             "hash": "dbfce9db9deaa2567f6a84fde55f9680",
             "overwrite": false,
@@ -165,6 +183,7 @@
         "games/AO486": {},
         "games/Astrocade": {},
         "games/AtariLynx": {},
+        "games/CoCo3": {},
         "games/GAMEBOY": {},
         "games/GBA": {},
         "games/Intellivision": {},
@@ -177,6 +196,6 @@
         "games/TGFX16-CD": {},
         "games/WonderSwan": {}
     },
-    "timestamp": 1638991152,
+    "timestamp": 1640304773,
     "zips": {}
 }

@@ -9,6 +9,11 @@
     "AtariLynx": {
         "boot.rom": "boot.rom"
     },
+    "CoCo3": {
+        "boot0.rom": "boot0.rom",
+        "boot1.rom": "boot1.rom",
+        "boot2.rom": "boot2.rom"
+    },
     "GAMEBOY": {
         "boot1.rom": "GBC_boot_ROM.gb"
     },
